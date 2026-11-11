@@ -1,0 +1,11 @@
+# Nunca subir muestras de voz ni audios generados
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.opus
+ref*/
+salida*/
+*.bin
+__pycache__/

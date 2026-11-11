@@ -1,0 +1,5 @@
+Che, vos que pensás que programar es solo para genios, escuchame un minuto que te cuento algo.
+Hace un año no sabía lo que era una variable, y hoy armo mis propias herramientas.
+
+El secreto no fue estudiar más horas, fue hacer un proyecto chiquito por semana y terminarlo.
+Guardalo, que el día que te frustres con tu primer error lo vas a necesitar.
